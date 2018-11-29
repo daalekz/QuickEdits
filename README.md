@@ -1,1 +1,3 @@
 #QuickEdits
+*.log
+*.lock
