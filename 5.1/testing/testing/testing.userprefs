@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{B6FE08E7-249E-42C9-A627-FBF3212CA044}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="LookCommand.cs">
+    <Files>
+      <File FileName="Player.cs" Line="1" Column="1" />
+      <File FileName="LookCommand.cs" Line="59" Column="40" />
+      <File FileName="Command.cs" Line="10" Column="65" />
+      <File FileName="IHaveInventory.cs" Line="7" Column="26" />
+      <File FileName="GameObject.cs" Line="1" Column="1" />
+      <File FileName="Bag.cs" Line="1" Column="1" />
+      <File FileName="NUnitTestClass2.cs" Line="59" Column="32" />
+      <File FileName="NUnitTestClass.cs" Line="40" Column="16" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.SwinAdventure PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

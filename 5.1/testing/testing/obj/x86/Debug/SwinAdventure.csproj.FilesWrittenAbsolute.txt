@@ -1,0 +1,5 @@
+/home/gareth/UNI/code/5.1/testing/testing/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/gareth/UNI/code/5.1/testing/testing/bin/Debug/SwinAdventure.pdb
+/home/gareth/UNI/code/5.1/testing/testing/bin/Debug/SwinAdventure.exe
+/home/gareth/UNI/code/5.1/testing/testing/obj/x86/Debug/SwinAdventure.exe
+/home/gareth/UNI/code/5.1/testing/testing/obj/x86/Debug/SwinAdventure.pdb
