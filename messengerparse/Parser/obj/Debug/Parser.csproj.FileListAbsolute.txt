@@ -1,0 +1,10 @@
+C:\code\HAL_quickedits\messengerparse\Parser\obj\Debug\Parser.csprojAssemblyReference.cache
+C:\code\HAL_quickedits\messengerparse\Parser\obj\Debug\Parser.csproj.CoreCompileInputs.cache
+C:\code\HAL_quickedits\messengerparse\Parser\bin\Debug\Parser.exe.config
+C:\code\HAL_quickedits\messengerparse\Parser\bin\Debug\Parser.exe
+C:\code\HAL_quickedits\messengerparse\Parser\bin\Debug\Parser.pdb
+C:\code\HAL_quickedits\messengerparse\Parser\bin\Debug\AngleSharp.dll
+C:\code\HAL_quickedits\messengerparse\Parser\bin\Debug\AngleSharp.xml
+C:\code\HAL_quickedits\messengerparse\Parser\obj\Debug\Parser.csproj.CopyComplete
+C:\code\HAL_quickedits\messengerparse\Parser\obj\Debug\Parser.exe
+C:\code\HAL_quickedits\messengerparse\Parser\obj\Debug\Parser.pdb
