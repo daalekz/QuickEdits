@@ -9,15 +9,15 @@ namespace Parser
 {
     public class Class2
     {
-        public String Run()
+        public static String Run(String f)
         {
         try
         {   // Open the text file using a stream reader.
-            using (StreamReader sr = new StreamReader(@"C:\\code\\HAL_quickedits\\messengerparse\\abstract.html"))
+            using (StreamReader sr = new StreamReader(f))
             {
             // Read the stream to a string, and write the string to the console.
                 String line = sr.ReadToEnd();
-                Console.WriteLine(line);
+               // Console.WriteLine(line);
                 return line;
             }
         }
@@ -30,7 +30,7 @@ namespace Parser
         }
         public Class2()
         {
-            Run();
+            //
         }
     }
 }
